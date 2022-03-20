@@ -13,14 +13,27 @@ namespace Mom.Services
                 new Doctor
                 {
                     Id = 1,
-                    FirstName = "John",
-                    LastName = "Mutac"
+                    Name = "John C Hornsby",
+                    Specialization = "Family Care",
+                    Clinic = "Primal Health Group",
+                    Address = "123 Fake Street",
+                    Phone = "(303) 333-3333",
+                    Email = "John@pghmail.com",
+                    Assistant = "N/A",
+                    Notes = " N/A "
+
                 },
                 new Doctor
                 {
                     Id = 2,
-                    FirstName = "Vanessa",
-                    LastName = "Tisdale"
+                    Name = "Seitha T Mutac",
+                    Specialization = "Oncology",
+                    Clinic = "Primal Health Group",
+                    Address = "124 Fake Street",
+                    Phone = "(303) 233-3333",
+                    Email = "Seitha@phgmail.com",
+                    Assistant = "Vanessa",
+                    Notes = " N/A "
                 }
             };
         }
@@ -37,11 +50,11 @@ namespace Mom.Services
 
         public static void Delete(int id)
         {
-            var pizza = Get(id);
-            if (pizza is null)
+            var doctor = Get(id);
+            if (doctor is null)
                 return;
 
-            Doctors.Remove(pizza);
+            Doctors.Remove(doctor);
         }
 
         public static void Update(Doctor doctor)
