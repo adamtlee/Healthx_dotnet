@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "8BkGzf56F+E7wCxJgaxTy9omBiAyySW+RJ3h9RemJvw=",
-  "Source": "Mom",
-  "BasePath": "_content/Mom",
+  "Hash": "TCF+4JYH52POkZtqcq/yTKr2NvAkkkGgeK3or/XQj0M=",
+  "Source": "Mom.Api",
+  "BasePath": "_content/Mom.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

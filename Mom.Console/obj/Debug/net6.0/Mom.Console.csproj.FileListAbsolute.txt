@@ -1,0 +1,17 @@
+C:\Repository\CSharp_Projects\Mom\Mom.Console\bin\Debug\net6.0\Mom.Console.exe
+C:\Repository\CSharp_Projects\Mom\Mom.Console\bin\Debug\net6.0\Mom.Console.deps.json
+C:\Repository\CSharp_Projects\Mom\Mom.Console\bin\Debug\net6.0\Mom.Console.runtimeconfig.json
+C:\Repository\CSharp_Projects\Mom\Mom.Console\bin\Debug\net6.0\Mom.Console.dll
+C:\Repository\CSharp_Projects\Mom\Mom.Console\bin\Debug\net6.0\ref\Mom.Console.dll
+C:\Repository\CSharp_Projects\Mom\Mom.Console\bin\Debug\net6.0\Mom.Console.pdb
+C:\Repository\CSharp_Projects\Mom\Mom.Console\obj\Debug\net6.0\Mom.Console.csproj.AssemblyReference.cache
+C:\Repository\CSharp_Projects\Mom\Mom.Console\obj\Debug\net6.0\Mom.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\CSharp_Projects\Mom\Mom.Console\obj\Debug\net6.0\Mom.Console.AssemblyInfoInputs.cache
+C:\Repository\CSharp_Projects\Mom\Mom.Console\obj\Debug\net6.0\Mom.Console.AssemblyInfo.cs
+C:\Repository\CSharp_Projects\Mom\Mom.Console\obj\Debug\net6.0\Mom.Console.csproj.CoreCompileInputs.cache
+C:\Repository\CSharp_Projects\Mom\Mom.Console\obj\Debug\net6.0\Mom.Console.dll
+C:\Repository\CSharp_Projects\Mom\Mom.Console\obj\Debug\net6.0\ref\Mom.Console.dll
+C:\Repository\CSharp_Projects\Mom\Mom.Console\obj\Debug\net6.0\Mom.Console.pdb
+C:\Repository\CSharp_Projects\Mom\Mom.Console\obj\Debug\net6.0\Mom.Console.genruntimeconfig.cache
+C:\Repository\CSharp_Projects\Mom\Mom.Console\bin\Debug\net6.0\Npgsql.dll
+C:\Repository\CSharp_Projects\Mom\Mom.Console\obj\Debug\net6.0\Mom.Console.csproj.CopyComplete

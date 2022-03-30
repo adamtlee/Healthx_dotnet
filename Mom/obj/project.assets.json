@@ -214,9 +214,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repository\\CSharp_Projects\\Mom\\Mom\\Mom.csproj",
-      "projectName": "Mom",
-      "projectPath": "C:\\Repository\\CSharp_Projects\\Mom\\Mom\\Mom.csproj",
+      "projectUniqueName": "C:\\Repository\\CSharp_Projects\\Mom\\Mom\\Mom.Api.csproj",
+      "projectName": "Mom.Api",
+      "projectPath": "C:\\Repository\\CSharp_Projects\\Mom\\Mom\\Mom.Api.csproj",
       "packagesPath": "C:\\Users\\adaml\\.nuget\\packages\\",
       "outputPath": "C:\\Repository\\CSharp_Projects\\Mom\\Mom\\obj\\",
       "projectStyle": "PackageReference",

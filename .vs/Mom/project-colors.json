@@ -3,9 +3,19 @@
   "ProjectMap": {
     "19f36e54-0977-406e-bb14-6d38f34d18cf": {
       "ProjectGuid": "19f36e54-0977-406e-bb14-6d38f34d18cf",
-      "DisplayName": "Mom",
+      "DisplayName": "Mom.Api",
       "ColorIndex": 0
+    },
+    "9ace8115-ca13-494b-aadd-34288963a613": {
+      "ProjectGuid": "9ace8115-ca13-494b-aadd-34288963a613",
+      "DisplayName": "Mom.Console",
+      "ColorIndex": 1
+    },
+    "27ac2bd5-5d37-4197-b49f-c35e16c0b11d": {
+      "ProjectGuid": "27ac2bd5-5d37-4197-b49f-c35e16c0b11d",
+      "DisplayName": "SQL_Scripts",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }

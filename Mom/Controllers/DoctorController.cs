@@ -33,5 +33,45 @@ namespace Mom.Controllers
             }
             return doctor;
         }
+
+        [HttpPost]
+        public IActionResult Create(Doctor doctor)
+        {
+            DoctorService.Add(doctor);
+            return CreatedAtAction(nameof(Create), new { id = doctor.Id }, doctor);
+        }
+
+        [HttpPut("{id}")]
+        public IActionResult Update(int id, Doctor doctor)
+        {
+            if(id != doctor.Id)
+            {
+                return BadRequest();
+            }
+
+            var existingDoctor = DoctorService.Get(id);
+            if (existingDoctor is null)
+            {
+                return NotFound();
+            }
+
+            DoctorService.Update(existingDoctor);
+
+            return NoContent();
+        }
+        
+        [HttpDelete("{id}")]
+        public IActionResult Delete(int id)
+        {
+            var doctorId = DoctorService.Get(id);
+
+            if(doctorId == null)
+            {
+                return NotFound();
+            }
+            DoctorService.Delete(id);
+
+            return NoContent();
+        }
     }
 }
