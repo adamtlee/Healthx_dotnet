@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Mom.Models;
-using Mom.Services;
+using Mom.Api.Models;
+using Mom.Api.Services;
 
 namespace Mom.Controllers
 {

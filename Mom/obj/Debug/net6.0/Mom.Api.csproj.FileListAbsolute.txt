@@ -1,3 +1,10 @@
+C:\Repository\CSharp_Projects\Mom\Mom\obj\Debug\net6.0\Mom.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\CSharp_Projects\Mom\Mom\obj\Debug\net6.0\Mom.Api.AssemblyInfoInputs.cache
+C:\Repository\CSharp_Projects\Mom\Mom\obj\Debug\net6.0\Mom.Api.AssemblyInfo.cs
+C:\Repository\CSharp_Projects\Mom\Mom\obj\Debug\net6.0\Mom.Api.csproj.CoreCompileInputs.cache
+C:\Repository\CSharp_Projects\Mom\Mom\obj\Debug\net6.0\Mom.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Repository\CSharp_Projects\Mom\Mom\obj\Debug\net6.0\Mom.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Repository\CSharp_Projects\Mom\Mom\obj\Debug\net6.0\Mom.Api.csproj.AssemblyReference.cache
 C:\Repository\CSharp_Projects\Mom\Mom\bin\Debug\net6.0\appsettings.Development.json
 C:\Repository\CSharp_Projects\Mom\Mom\bin\Debug\net6.0\appsettings.json
 C:\Repository\CSharp_Projects\Mom\Mom\bin\Debug\net6.0\Mom.Api.exe
@@ -10,13 +17,6 @@ C:\Repository\CSharp_Projects\Mom\Mom\bin\Debug\net6.0\Microsoft.OpenApi.dll
 C:\Repository\CSharp_Projects\Mom\Mom\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Repository\CSharp_Projects\Mom\Mom\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Repository\CSharp_Projects\Mom\Mom\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Repository\CSharp_Projects\Mom\Mom\obj\Debug\net6.0\Mom.Api.csproj.AssemblyReference.cache
-C:\Repository\CSharp_Projects\Mom\Mom\obj\Debug\net6.0\Mom.Api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Repository\CSharp_Projects\Mom\Mom\obj\Debug\net6.0\Mom.Api.AssemblyInfoInputs.cache
-C:\Repository\CSharp_Projects\Mom\Mom\obj\Debug\net6.0\Mom.Api.AssemblyInfo.cs
-C:\Repository\CSharp_Projects\Mom\Mom\obj\Debug\net6.0\Mom.Api.csproj.CoreCompileInputs.cache
-C:\Repository\CSharp_Projects\Mom\Mom\obj\Debug\net6.0\Mom.Api.MvcApplicationPartsAssemblyInfo.cs
-C:\Repository\CSharp_Projects\Mom\Mom\obj\Debug\net6.0\Mom.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Repository\CSharp_Projects\Mom\Mom\obj\Debug\net6.0\staticwebassets.build.json
 C:\Repository\CSharp_Projects\Mom\Mom\obj\Debug\net6.0\staticwebassets.development.json
 C:\Repository\CSharp_Projects\Mom\Mom\obj\Debug\net6.0\scopedcss\bundle\Mom.Api.styles.css

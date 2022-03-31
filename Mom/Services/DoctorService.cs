@@ -1,6 +1,6 @@
-﻿using Mom.Models;
+﻿using Mom.Api.Models;
 
-namespace Mom.Services
+namespace Mom.Api.Services
 {
     public static class DoctorService
     {

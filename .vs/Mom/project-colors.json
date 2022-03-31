@@ -15,7 +15,12 @@
       "ProjectGuid": "27ac2bd5-5d37-4197-b49f-c35e16c0b11d",
       "DisplayName": "SQL_Scripts",
       "ColorIndex": 2
+    },
+    "65c26c50-9dc8-4bfc-9c1b-7ec7235c96a3": {
+      "ProjectGuid": "65c26c50-9dc8-4bfc-9c1b-7ec7235c96a3",
+      "DisplayName": "Mom.Tests",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }

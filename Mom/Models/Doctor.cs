@@ -1,4 +1,4 @@
-﻿namespace Mom.Models
+﻿namespace Mom.Api.Models
 {
     public class Doctor
     {
