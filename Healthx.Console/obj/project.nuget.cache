@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pv5xvTunRffQZ4D0dwCKg1WRejA9q6F3efj09/1Qv5r87fsBqoSnUvuV6RVHICSYnr2dDMT5BW9UwgM2mAu4Uw==",
+  "success": true,
+  "projectFilePath": "C:\\Repository\\CSharp_Projects\\Healthx\\Healthx.Console\\Healthx.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adaml\\.nuget\\packages\\npgsql\\6.0.3\\npgsql.6.0.3.nupkg.sha512",
+    "C:\\Users\\adaml\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
