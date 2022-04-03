@@ -194,3 +194,4 @@ C:\Repository\CSharp_Projects\Healthx\Healthx.Tests\obj\Debug\net6.0\Healthx.Tes
 C:\Repository\CSharp_Projects\Healthx\Healthx.Tests\obj\Debug\net6.0\ref\Healthx.Tests.dll
 C:\Repository\CSharp_Projects\Healthx\Healthx.Tests\obj\Debug\net6.0\Healthx.Tests.pdb
 C:\Repository\CSharp_Projects\Healthx\Healthx.Tests\obj\Debug\net6.0\Healthx.Tests.genruntimeconfig.cache
+C:\Repository\CSharp_Projects\Healthx\Healthx.Tests\obj\Debug\net6.0\Healthx.Tests.csproj.AssemblyReference.cache

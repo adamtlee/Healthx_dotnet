@@ -51,3 +51,4 @@ C:\Repository\CSharp_Projects\Healthx\Healthx\obj\Debug\net6.0\Healthx.Api.dll
 C:\Repository\CSharp_Projects\Healthx\Healthx\obj\Debug\net6.0\ref\Healthx.Api.dll
 C:\Repository\CSharp_Projects\Healthx\Healthx\obj\Debug\net6.0\Healthx.Api.pdb
 C:\Repository\CSharp_Projects\Healthx\Healthx\obj\Debug\net6.0\Healthx.Api.genruntimeconfig.cache
+C:\Repository\CSharp_Projects\Healthx\Healthx\obj\Debug\net6.0\Healthx.Api.csproj.AssemblyReference.cache

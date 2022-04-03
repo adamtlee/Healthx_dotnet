@@ -30,3 +30,4 @@ C:\Repository\CSharp_Projects\Healthx\Healthx.Console\obj\Debug\net6.0\Healthx.C
 C:\Repository\CSharp_Projects\Healthx\Healthx.Console\obj\Debug\net6.0\ref\Healthx.Console.dll
 C:\Repository\CSharp_Projects\Healthx\Healthx.Console\obj\Debug\net6.0\Healthx.Console.pdb
 C:\Repository\CSharp_Projects\Healthx\Healthx.Console\obj\Debug\net6.0\Healthx.Console.genruntimeconfig.cache
+C:\Repository\CSharp_Projects\Healthx\Healthx.Console\obj\Debug\net6.0\Healthx.Console.csproj.AssemblyReference.cache
