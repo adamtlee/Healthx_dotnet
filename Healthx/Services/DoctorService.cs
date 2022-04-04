@@ -2,7 +2,7 @@
 
 namespace Healthx.Api.Services
 {
-    public static class DoctorService
+    public class DoctorService
     {
         static List<Doctor> Doctors { get;  }
         static int nextId = 3;

@@ -2,11 +2,12 @@
 
 const context = [
     "/weatherforecast",
+    "/vitalinformation"
 ];
 
 module.exports = function (app) {
     const appProxy = createProxyMiddleware(context, {
-        target: 'http://localhost:61023',
+        target: 'https://localhost:7279',
         secure: false
     });
 

@@ -195,3 +195,15 @@ C:\Repository\CSharp_Projects\Healthx\Healthx.Tests\obj\Debug\net6.0\ref\Healthx
 C:\Repository\CSharp_Projects\Healthx\Healthx.Tests\obj\Debug\net6.0\Healthx.Tests.pdb
 C:\Repository\CSharp_Projects\Healthx\Healthx.Tests\obj\Debug\net6.0\Healthx.Tests.genruntimeconfig.cache
 C:\Repository\CSharp_Projects\Healthx\Healthx.Tests\obj\Debug\net6.0\Healthx.Tests.csproj.AssemblyReference.cache
+C:\Repository\CSharp_Projects\Healthx\Healthx.Tests\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Repository\CSharp_Projects\Healthx\Healthx.Tests\bin\Debug\net6.0\Healthx.Api.deps.json
+C:\Repository\CSharp_Projects\Healthx\Healthx.Tests\bin\Debug\net6.0\Healthx.Api.runtimeconfig.json
+C:\Repository\CSharp_Projects\Healthx\Healthx.Tests\bin\Debug\net6.0\appsettings.Development.json
+C:\Repository\CSharp_Projects\Healthx\Healthx.Tests\bin\Debug\net6.0\appsettings.json
+C:\Repository\CSharp_Projects\Healthx\Healthx.Tests\bin\Debug\net6.0\Healthx.Api.exe
+C:\Repository\CSharp_Projects\Healthx\Healthx.Tests\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Repository\CSharp_Projects\Healthx\Healthx.Tests\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Repository\CSharp_Projects\Healthx\Healthx.Tests\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Repository\CSharp_Projects\Healthx\Healthx.Tests\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Repository\CSharp_Projects\Healthx\Healthx.Tests\bin\Debug\net6.0\Healthx.Api.dll
+C:\Repository\CSharp_Projects\Healthx\Healthx.Tests\bin\Debug\net6.0\Healthx.Api.pdb
