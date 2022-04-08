@@ -4,8 +4,9 @@ namespace Healthx.Api.Services
 {
     public class MedicationService
     {
-        static int nextId = 3; 
+        
         static List<Medication> Medications { get; }
+        static int nextId = 3;
 
         static MedicationService()
         {
@@ -29,6 +30,34 @@ namespace Healthx.Api.Services
                 }
             };
 
+        }
+
+        public static List<Medication> GetAll() => Medications;
+
+        public static Medication? Get(int id) => Medications.FirstOrDefault(m => m.Id == id);
+
+        public static void Add(Medication medication)
+        {
+            medication.Id = nextId++; 
+            Medications.Add(medication);
+        }
+
+        public static void Delete(int id)
+        {
+            var medication = Get(id);
+            if(medication is null)
+            {
+                return;
+            }
+            Medications.Remove(medication);
+        }
+
+        public static void Update(Medication medication)
+        {
+            var index = Medications.FindIndex(m => m.Id == medication.Id);
+            if (index == -1)
+                return;
+            Medications[index] = medication; 
         }
     }
 }

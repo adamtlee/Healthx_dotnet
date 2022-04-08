@@ -2,14 +2,14 @@
 {
     public class Patient
     {
-        public string Id { get; set; }
+        public int Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
-        public DateOnly Dob { get; set; }
+        public String Dob { get; set; }
         public string Email { get; set; }
-        public Doctor doctor { get ; set; }
-        public Medication medications { get; set; }
-        public VitalInformation vitalInformation { get; set; }
+        public Doctor Doctor { get ; set; }
+        public Medication Medications { get; set; }
+        public VitalInformation VitalInformation { get; set; }
 
     }
 }
