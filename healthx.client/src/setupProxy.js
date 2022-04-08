@@ -2,6 +2,9 @@
 
 const context = [
     "/weatherforecast",
+    "/doctor",
+    "/patient",
+    "/medication",
     "/vitalinformation"
 ];
 
